@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Nikita",
+  "siteUrl": "https://nikitas.netlify.com/",
+  "description": "Nikita, portfolio",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Nikita",
+    "description": "I am a 20-year-old Mass Communication student. Each day I get to learn something new and Inspiring. I am finally graduating with the batch of 2020.  Here is a little bit I have done in the past years. "
   }
 }
