@@ -1,14 +1,14 @@
 import React from "react"
-import Helmet from 'react-helmet';
-import { graphql, Link } from 'gatsby'
-import Layout from "../components/layout"
+import Helmet from "react-helmet"
+import { graphql } from 'gatsby'
 import PostLink from "../components/post-link"
-import HeroHeader from "../components/heroHeader"
+import Layout from "../components/layout"
 
-const IndexPage = ({
+const CasePage = ({
   data: {
     site,
     allMarkdownRemark: { edges },
+
   },
 }) => {
 
@@ -16,38 +16,33 @@ const IndexPage = ({
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
+
   return (
     <Layout>
       <Helmet>
-        <title>{site.siteMetadata.title}</title>
-        <meta name="description" content={site.siteMetadata.description} />
+        <title>Case Studies — {site.siteMetadata.title}</title>
+        <meta name="description" content={"Case study page of " + site.siteMetadata.description} />
       </Helmet>
-      <HeroHeader/>
-      <h2>Case Studies  &darr;</h2>
       <div className="grids">
         {Posts}
-      </div>
-      <div className="center" style={{textAlign: "center", margin: ' 0 1 + ' }}>
-      <Link to='/case' className="button -primary">Read More &rarr;</Link>
       </div>
     </Layout>
   )
 }
-
-export default IndexPage
+export default CasePage
 export const pageQuery = graphql`
-  query indexPageQuery {
+  query CasePageQuery{
     site {
       siteMetadata {
         title
         description
       }
     }
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] },limit: 6) {
+    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date]}) {
       edges {
         node {
           id
-          excerpt(pruneLength: 250)
+          excerpt(pruneLength: 245)
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             path
