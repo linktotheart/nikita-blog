@@ -12,9 +12,9 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #1BA098;
+  --primary-color: #1877F2;
   --primary-text-color: #fff;
-  --featured-bg: #1BA098;
+  --featured-bg: #1877F2;
   --featured-text: #fff;
   --secondary-color: #051622;
   --background: #fff;
@@ -32,11 +32,11 @@ body.light {
   --input-bg: var(--background);
 }
 body.dark {
-  --primary-color: #1BA098;
+  --primary-color: #1877F2;
   --primary-text-color: #fff;
-  --featured-bg: #1BA098;
+  --featured-bg: #1877F2;
   --featured-text: #fff;
-  --secondary-color: #1BA098;
+  --secondary-color: #1877F2;
   --background: #051622;
   --text-color: rgba(255,255,255,0.88);
   --text-secondary-color: rgba(255,255,255,0.66);
@@ -205,6 +205,9 @@ a {
   position: relative;
   padding: 18px;
   overflow: hidden;
+  max-width: 768px;
+  margin-left: auto;
+  margin-right: auto;
   &:before {
     content: "";
     background: rgba(0,0,0,0.4);

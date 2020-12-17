@@ -20,7 +20,7 @@ const AboutPage = ({
         </div>
         <div className="about-text">
           <h3>About Me</h3>
-          <p>
+          {/* <p>
           I am an upcoming media professional, currently studying at Symbiosis Center for Media & Communication Pune. With a perpetual hunger for knowledge in cinema. I am a social media enthusiast with a head for marketing.
 
           20 -year-old Doodler, content writer, food blogger and reading enthusiast. I love teaching and I usually involve myself in various NGO's for Child support. I currently volunteer at Nachiket Balgram an orphanage in Pune. 
@@ -38,18 +38,13 @@ const AboutPage = ({
           <strong>
             <a href="https://instagram.com/@imnikita.s">@imnikita.s</a>
           </strong> 
-          </p>
+          </p> */}
+            <p>
+              When I was 14 years old, I would secretly watch Mad Men after bedtime with all the enthusiasm of, well, a teen. Nobody was more excited than I was when it premiered on TV daily, sparking a craze for all things early 60’s. Needless to say, I was mesmerized and fascinated. Having watched Mad Men, I wanted to be the Don Draper of the world, but the quick realization DON-ed upon me that I am not nearly as charming and the advertising world is more than just whiskeys and charms. It is an entourage of people who survive on creativity. And so, I hope to find a place in this mad-Ad world. “Advertising is based on one thing: Happiness” an interesting quote from Don Draper, reminds me that all marketers do is to convince the world that their product makes them happier. Just like Don, one can be skeptical about consumer culture but you cannot get around this. If you are a marketer, you need to know that happiness sells. No one wants a branded Gucci bag because they can store things in it. They want Gucci because of what it will make them: someone who is classy, fancy, luxurious. The message surrounding the Gucci bag should reflect that.
+            </p>
 
 
-
-          <div className="d-flex social">
-            <a href="https://www.facebook.com/kneekeytaaa" target="_blank"><img src="./assets/img/facebook.png" /> </a>
-            <a href="https://twitter.com/kneekeytaaa" target="_blank"><img src="./assets/img/twitter.png" /> </a>
-            <a href="https://www.instagram.com/imnikita.s/" target="_blank"><img src="./assets/img/instagram.png" /> </a>
-            <a href="https://www.linkedin.com/in/nikita-shelar-644948146/" target="_blank"><img src="./assets/img/linkedin.png" /> </a>
-            <a href="mailto:shelar.nikita19@gmail.com" target="_blank"><img src="./assets/img/mail.png" /> </a>
-            <a href="tel:8669667019" target="_blank"><img src="./assets/img/phone.png" /> </a>
-          </div>
+   
         </div>
       </div>
       
@@ -57,9 +52,7 @@ const AboutPage = ({
       <div className="post mt-5 ">
       <div className="blog-post-content">
           <div className="col-6">
-            <p>
-              When I was 14 years old, I would secretly watch Mad Men after bedtime with all the enthusiasm of, well, a teen. Nobody was more excited than I was when it premiered on TV daily, sparking a craze for all things early 60’s. Needless to say, I was mesmerized and fascinated. Having watched Mad Men, I wanted to be the Don Draper of the world, but the quick realization DON-ed upon me that I am not nearly as charming and the advertising world is more than just whiskeys and charms. It is an entourage of people who survive on creativity. And so, I hope to find a place in this mad-Ad world. “Advertising is based on one thing: Happiness” an interesting quote from Don Draper, reminds me that all marketers do is to convince the world that their product makes them happier. Just like Don, one can be skeptical about consumer culture but you cannot get around this. If you are a marketer, you need to know that happiness sells. No one wants a branded Gucci bag because they can store things in it. They want Gucci because of what it will make them: someone who is classy, fancy, luxurious. The message surrounding the Gucci bag should reflect that.
-            </p>
+           
             <p>
               After getting into India’s No. 1 mass communication college for my bachelor’s, I dived into the world of media. While researching the subject, I found out that I am mostly interested in marketing communications with a focus on advertising. Some of the modules that I covered include Ad Filmmaking, Finance, Design, Strategic Management, Economics, Psychology, Graphic Designing and Marketing. With an excellent understanding of these subjects and an enthusiasm for knowledge.
             </p>

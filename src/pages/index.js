@@ -23,13 +23,13 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>
-      <h2>Case Studies  &darr;</h2>
+      {/* <h2> Projects  &darr;</h2>
       <div className="grids">
         {Posts}
       </div>
       <div className="center" style={{textAlign: "center"}}>
       <Link to='/case' className="button -primary">View  All &rarr;</Link>
-      </div>
+      </div> */}
 "
       <h2 className="mt-5">Brands I've worked with</h2>
       <div className="brands">

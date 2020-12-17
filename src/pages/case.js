@@ -23,6 +23,8 @@ const CasePage = ({
         <title>Case Studies — {site.siteMetadata.title}</title>
         <meta name="description" content={"Case study page of " + site.siteMetadata.description} />
       </Helmet>
+      
+      <h1>Projects</h1>
       <div className="grids">
         {Posts}
       </div>
