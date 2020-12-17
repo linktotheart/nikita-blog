@@ -1,50 +1,50 @@
 ---
 template: BlogPost
-path: /fillerama
+path: /pepe-jeans
 date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
-thumbnail: /assets/image-5.jpg
+title: 'PEPE JEANS - Dua X Pepe Campaign '
+metaDescription: |
+  PEPE JEANS
+thumbnail: /assets/Screenshot (1).png
 ---
-# No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
+<!--StartFragment-->
 
-I am the Doctor, and you are the Daleks! You hit me with a cricket bat. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hit me with a cricket bat.
+**PEPE JEANS - Dua X Pepe Campaign** 
 
-You've swallowed a planet! No… It's a thing; it's like a plan, but with more greatness. You hate me; you want to kill me! Well, go on! **Kill me!** *KILL ME!* Sorry, checking all the water in this area; there's an escaped fish.
+![logo](/assets/logo-dua-lipa-black.png)
 
-## Did I mention we have comfy chairs?
+Pepe Jeans London is a denim and casual wear jeans brand established in the Portobello Road area of London in 1973.
 
-No… It's a thing; it's like a plan, but with more greatness. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+<!--EndFragment-->
 
-1. \*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do!
-2. Sorry, checking all the water in this area; there's an escaped fish.
-3. Father Christmas. Santa Claus. Or as I've always known him: Jeff.
+<!--StartFragment-->
 
-### I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+During my Internship at WATConsult. I got a chance to work on several brands as a digital media executive. **Pepe Jeans India** was one of my main brands.
 
-It's a fez. I wear a fez now. Fezes are cool. You know how I sometimes have really brilliant ideas? You know how I sometimes have really brilliant ideas? Sorry, checking all the water in this area; there's an escaped fish.
+I managed their social media handles - Facebook, Instagram, Twitter.
 
-* I am the last of my species, and I know how that weighs on the heart so don't lie to me!
-* You hit me with a cricket bat.
-* You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+![pepe jeans](/assets/dc07e3_ff372daaf8c24faeb2eb95602c2da001_mv2.webp)
 
-I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+![](/assets/dc07e3_20ad5bac49dd48e2aac135eb178e7b36_mv2.webp)
 
-It's a fez. I wear a fez now. Fezes are cool. The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant.
+<!--EndFragment-->
 
-You know how I sometimes have really brilliant ideas? Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+<!--StartFragment-->
 
-You've swallowed a planet! They're not aliens, they're Earth…liens! You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+My role was to create the content plan, buckets, copies, coordinate with the client and take the same life on all social media platforms.
 
-Father Christmas. Santa Claus. Or as I've always known him: Jeff. \*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! No… It's a thing; it's like a plan, but with more greatness.
+Here are a few Instagram Grids posts I created for the client.
 
-\*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! You've swallowed a planet! I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
+![](/assets/Screenshot 2020-12-18 020615.png "Instagram Post for Pepe Jeans")
 
-It's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? Saving the world with meals on wheels.
+<!--EndFragment-->
 
-You've swallowed a planet! Heh-haa! Super squeaky bum time! All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+<!--StartFragment-->
 
-No… It's a thing; it's like a plan, but with more greatness. It's a fez. I wear a fez now. Fezes are cool. You hate me; you want to kill me! Well, go on! Kill me! KILL ME! Saving the world with meals on wheels.
+The main campaign I worked for was *Dua Lipa x Pepe Jeans.*
 
-You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? Sorry, checking all the water in this area; there's an escaped fish. You hit me with a cricket bat.
+Where Pepe Jeans announced Dua Lipa's first-ever design collection for AW19. A collection which showcased Dua Li own stylistic take to Pepe Jeans' legacy of signature denim
 
-Did I mention we have comfy chairs? Stop talking, brain thinking. Hush. No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister. You know how I sometimes have really brilliant ideas?
+I had to conduct Influencer Marketing for the brand. And create PR packages, come up with the content bank, and coordinate with different teams with regards to the contest, gifts, delivery etc.
+
+<!--EndFragment-->
