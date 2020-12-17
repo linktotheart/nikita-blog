@@ -15,7 +15,7 @@ const AboutPage = ({
         <meta name="description" content={"About page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -about">
-        <div className="post-thumbnail" >
+        <div className="post-thumbnail nikita-img" >
           <img className="img-fluid rounded-circle" src="./assets/img/nikita.webp" alt="Nikita Me?"/>
         </div>
         <div className="about-text">

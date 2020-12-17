@@ -448,12 +448,18 @@ body.light {
 .row{
   display: flex;
   flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
+
+  @media (max-width: 991px) {
+    flex-direction: column;
+  }
   .col-6{
     position: relative;
     flex: 0 0 50%;
     max-width: 50%;
+    @media (max-width: 991px) {
+      flex: 0 0 100%;
+      max-width: 100%; 
+    margin: 1rem 0;   }
   }
 }
 .sub{
@@ -481,7 +487,13 @@ body.light {
     }
   }
 }
-
+.nikita-img{
+  display: flex;
+  justify-self: center;
+  img{
+    margin: auto;
+  }
+}
 .brands{
   display: flex;
   flex-wrap: wrap;
