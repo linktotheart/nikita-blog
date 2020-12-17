@@ -11,7 +11,7 @@ collections:
     label: Settings
     files:
       - name: config
-        label: Config
+        label: Homepage
         file: site-meta-data.json
         fields:
           - widget: string
@@ -39,6 +39,11 @@ collections:
               - widget: markdown
                 name: description
                 label: Description
+                default: ''
+                required: false
+              - widget: markdown
+                name: about
+                label: About
                 default: ''
                 required: false
   - name: blog
