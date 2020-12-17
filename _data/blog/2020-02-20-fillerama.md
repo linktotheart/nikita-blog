@@ -9,9 +9,11 @@ thumbnail: /assets/Screenshot (1).png
 ---
 <!--StartFragment-->
 
+**PEPE JEANS - Dua X Pepe Campaign** 
+
+![logo](/assets/logo-dua-lipa-black.png)
+
 Pepe Jeans London is a denim and casual wear jeans brand established in the Portobello Road area of London in 1973.
-
-
 
 <!--EndFragment-->
 
@@ -22,8 +24,6 @@ During my Internship at WATConsult. I got a chance to work on several brands as 
 I managed their social media handles - Facebook, Instagram, Twitter.
 
 ![pepe jeans](/assets/dc07e3_ff372daaf8c24faeb2eb95602c2da001_mv2.webp)
-
-
 
 ![](/assets/dc07e3_20ad5bac49dd48e2aac135eb178e7b36_mv2.webp)
 
