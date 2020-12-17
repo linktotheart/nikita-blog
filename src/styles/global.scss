@@ -59,6 +59,9 @@ body {
   border-top: 10px solid var(--primary-color);
   background-color: var(--background);
   color: var(--text-color);
+  p{
+    line-height: 1.45;
+  }
 }
 a {
   color: var(--primary-color);
@@ -138,6 +141,16 @@ a {
       background-color: var(--secondary-color);
       color: var(--primary-text-color);
       text-decoration: none;
+    }
+  }
+  &.-outline{
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    background-color: #0000;
+    &:hover{
+      text-decoration: none;
+      background-color: var(--primary-color);
+      color:   #fff ;
     }
   }
   &:hover {
@@ -407,4 +420,85 @@ body.light {
     box-shadow: 0 0 0 2px;
     top: 8px;
     left: 2px
+}
+
+.img-fluid{
+  display: block;
+  max-width: 100%;
+}
+.center{
+  margin-top: 32px;
+}
+.mr-3{
+  margin-right: 1rem;
+}
+.mt-5{
+  margin-top: 50px;
+}
+.mb-5{
+  margin-bottom: 50px;
+}
+.my-3{
+  margin: 1.5rem 0;
+}
+.d-flex{
+  display: flex;
+}
+.rounded-circle{border-radius: 50%;}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  .col-6{
+    position: relative;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+.sub{
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100%;
+  &-heading{
+    text-transform: capitalize;
+  }
+}
+
+.social{
+  margin: 1rem 0;
+  a{display: block;
+    width: 2rem;
+    height: 2rem;
+    transition: .3s;
+    &:not(:last-child){
+      margin-right: .75rem;
+    }
+    &:hover{
+      transform: translateY(-2px);
+      filter: contrast(10%);
+    }
+  }
+}
+
+.brands{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  .brand{
+    max-width: 180px;
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+    align-items: center;
+    opacity: 0.7;
+    transition: 0.3s;
+    &:hover{
+      opacity: 1;
+    }
+  }
+  img{
+    max-width: 100%;
+  }
 }

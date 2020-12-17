@@ -27,8 +27,56 @@ const IndexPage = ({
       <div className="grids">
         {Posts}
       </div>
-      <div className="center" style={{textAlign: "center", margin: ' 0 1 + ' }}>
-      <Link to='/case' className="button -primary">Read More &rarr;</Link>
+      <div className="center" style={{textAlign: "center"}}>
+      <Link to='/case' className="button -primary">View  All &rarr;</Link>
+      </div>
+"
+      <h2 className="mt-5">Brands I've worked with</h2>
+      <div className="brands">
+        <div className="brand">
+          <img src="./assets/img/brands (1).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (14).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (2).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (3).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (4).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (5).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (6).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (7).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (8).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (9).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (10).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (11).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (12).webp" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands (13).webp" alt="none" />
+        </div>
+
+        
       </div>
     </Layout>
   )
