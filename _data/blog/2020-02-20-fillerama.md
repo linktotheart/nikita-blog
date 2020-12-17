@@ -2,7 +2,7 @@
 template: BlogPost
 path: /pepe-jeans
 date: 2020-02-20T14:59:36.571Z
-title: PEPE JEANS
+title: 'PEPE JEANS - Dua X Pepe Campaign '
 metaDescription: |
   PEPE JEANS
 thumbnail: /assets/Screenshot (1).png
