@@ -21,6 +21,6 @@ The aim of the assignment was to get an experience of the printing process from 
 
 ![](/assets/Screenshot 2020-12-18 164229.png)
 
-![](/assets/DFECAC30-AAC9-45D6-98C5-8A74D5436A48.jpeg)
+![](/assets/20B51904-0882-4EE0-9E91-619015164591.png)
 
 <!--EndFragment-->
