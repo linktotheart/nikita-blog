@@ -5,7 +5,7 @@ date: 2020-02-20T14:59:36.571Z
 title: 'PEPE JEANS - Dua X Pepe Campaign '
 metaDescription: |
   PEPE JEANS
-thumbnail: /assets/dua x pepe.jpg
+thumbnail: /assets/download.jfif
 ---
 <!--StartFragment-->
 
