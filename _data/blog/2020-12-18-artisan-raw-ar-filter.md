@@ -3,7 +3,7 @@ template: BlogPost
 path: /Artisan-raw
 date: 2020-12-18T11:33:25.370Z
 title: 'Artisan Raw AR Filter '
-thumbnail: /assets/GoodSixtyLandscapeAR.jpg
+thumbnail: /assets/Untitled design (5).png
 ---
 <!--StartFragment-->
 
