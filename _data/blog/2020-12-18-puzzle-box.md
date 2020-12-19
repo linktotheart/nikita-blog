@@ -3,7 +3,7 @@ template: BlogPost
 path: /Puzzle Box
 date: 2020-12-18T11:03:08.705Z
 title: 'Puzzle Box '
-thumbnail: /assets/download (5).png
+thumbnail: /assets/65F81EBA-28A0-4C4B-BFB2-1E447E1EF565.jpeg
 ---
 <!--StartFragment-->
 
@@ -17,9 +17,9 @@ The aim of the assignment was to get an experience of the printing process from 
 
 ![](/assets/Screenshot 2020-12-18 170030.png)
 
-![](/assets/Screenshot 2020-12-18 165154.png)
+![]()
 
-![](/assets/Screenshot 2020-12-18 164229.png)
+![](/assets/0D0D6F3B-9F85-453F-B8C8-BB83A01A90CE.png)
 
 ![](/assets/20B51904-0882-4EE0-9E91-619015164591.png)
 
