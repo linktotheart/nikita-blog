@@ -33,11 +33,7 @@ My role was to create the content plan, buckets, copies, coordinate with the cli
 
 Here are a few Instagram Grids posts I created for the client.
 
-![](/assets/FB0F7524-C7DB-46B7-9281-40996DDD99A4.jpeg)
-
-![](/assets/B52A0EB1-1A3C-49DA-90B1-999B6CCA8A38.jpeg "Instagram Post for Pepe Jeans")
-
-![](/assets/8BE2E32A-93C7-433D-B1CE-E2480A0876A4.jpeg)
+![](/assets/pepe jeans .png)
 
 <!--EndFragment-->
 
