@@ -21,8 +21,6 @@ The interaction that triggers the effect is when the user presses the record but
 
 or **visit**  [Artisan Raw on Instagram](https://www.instagram.com/artisanraw/?hl=en) 
 
-![](/assets/E0BEBB61-CD8D-498F-BD5C-33818EBA31AD.jpeg)
+![](/assets/Untitled design.gif)
 
 <!--EndFragment-->
-
-![](/assets/AR FACE FILTER.gif)
