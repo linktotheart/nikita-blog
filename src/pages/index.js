@@ -29,7 +29,7 @@ const IndexPage = ({
       <div className="center" style={{textAlign: "center"}}>
       <Link to='/case' className="button -primary">View  All &rarr;</Link>
       </div> */}
-
+"
       <h2 className="mt-5">Brands I've worked with</h2>
       <div className="brands">
         <div className="brand">
@@ -74,6 +74,12 @@ const IndexPage = ({
         <div className="brand">
           <img src="./assets/img/brands (13).webp" alt="none" />
         </div>
+        <div className="brand">
+          <img src="./assets/img/brand15.jpg" alt="none" />
+        </div>
+        <div className="brand">
+          <img src="./assets/img/brands16.jpg" alt="none" />
+        </div>
 
         
       </div>
@@ -82,27 +88,27 @@ const IndexPage = ({
 }
 
 export default IndexPage
-export const pageQuery = graphql`
-  query indexPageQuery {
-    site {
-      siteMetadata {
-        title
-        description
-      }
-    }
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] },limit: 6) {
-      edges {
-        node {
-          id
-          excerpt(pruneLength: 250)
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            path
-            title
-            thumbnail
-          }
-        }
-      }
-    }
-  }
-`
+// export const pageQuery = graphql`
+//   query indexPageQuery {
+//     site {
+//       siteMetadata {
+//         title
+//         description
+//       }
+//     }
+//     allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] },limit: 6) {
+//       edges {
+//         node {
+//           id
+//           excerpt(pruneLength: 250)
+//           frontmatter {
+//             date(formatString: "MMMM DD, YYYY")
+//             path
+//             title
+//             thumbnail
+//           }
+//         }
+//       }
+//     }
+//   }
+// `
