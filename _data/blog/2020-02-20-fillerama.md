@@ -5,13 +5,11 @@ date: 2020-02-20T14:59:36.571Z
 title: 'PEPE JEANS - Dua X Pepe Campaign '
 metaDescription: |
   PEPE JEANS
-thumbnail: /assets/Screenshot (1).png
+thumbnail: /assets/download.jfif
 ---
 <!--StartFragment-->
 
 **PEPE JEANS - Dua X Pepe Campaign** 
-
-![logo](/assets/logo-dua-lipa-black.png)
 
 Pepe Jeans London is a denim and casual wear jeans brand established in the Portobello Road area of London in 1973.
 
@@ -35,7 +33,7 @@ My role was to create the content plan, buckets, copies, coordinate with the cli
 
 Here are a few Instagram Grids posts I created for the client.
 
-![](/assets/Screenshot 2020-12-18 020615.png "Instagram Post for Pepe Jeans")
+![](/assets/pepe jeans .png)
 
 <!--EndFragment-->
 
@@ -43,7 +41,9 @@ Here are a few Instagram Grids posts I created for the client.
 
 The main campaign I worked for was *Dua Lipa x Pepe Jeans.*
 
-Where Pepe Jeans announced Dua Lipa's first-ever design collection for AW19. A collection which showcased Dua Li own stylistic take to Pepe Jeans' legacy of signature denim
+Where Pepe Jeans announced Dua Lipa's first-ever design collection for AW19. A collection which showcased Dua Lipa's own stylistic take to Pepe Jeans' legacy of signature denim.
+
+![](/assets/1122DBB4-1154-4CF6-8B05-EE7946A2A6CB.jpeg)
 
 I had to conduct Influencer Marketing for the brand. And create PR packages, come up with the content bank, and coordinate with different teams with regards to the contest, gifts, delivery etc.
 
