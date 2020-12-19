@@ -43,7 +43,7 @@ The main campaign I worked for was *Dua Lipa x Pepe Jeans.*
 
 Where Pepe Jeans announced Dua Lipa's first-ever design collection for AW19. A collection which showcased Dua Lipa's own stylistic take to Pepe Jeans' legacy of signature denim.
 
-![](/assets/1122DBB4-1154-4CF6-8B05-EE7946A2A6CB.jpeg)
+![](/assets/79F19198-18E4-44D1-B4E0-532AA94080E5.png)
 
 I had to conduct Influencer Marketing for the brand. And create PR packages, come up with the content bank, and coordinate with different teams with regards to the contest, gifts, delivery etc.
 
