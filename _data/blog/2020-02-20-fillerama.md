@@ -17,7 +17,7 @@ Pepe Jeans London is a denim and casual wear jeans brand established in the Port
 
 <!--StartFragment-->
 
-During my Internship at WATConsult. I got a chance to work on several brands as a digital media executive. **Pepe Jeans India** was one of my main brands.
+During my Internship at WATConsult. I got a chance to work on several brands as a digital media executive.**[Pepe Jeans India](https://www.instagram.com/pepejeansindia/?hl=en)** was one of my main brands. 
 
 I managed their social media handles - Facebook, Instagram, Twitter.
 
