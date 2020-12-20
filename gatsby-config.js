@@ -1,8 +1,3 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.org/docs/gatsby-config/
- */
 
 module.exports = {
   /* Your site config here */
@@ -44,8 +39,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
+        name: `Nikita Shelar Blog`,
+        short_name: `Nikita`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#381696`,
