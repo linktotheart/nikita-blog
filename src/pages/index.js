@@ -67,7 +67,7 @@ const IndexPage = ({
           <img src="./assets/img/brands (9).webp" alt="none" />
         </div>
         <div className="brand">
-          <img src="./assets/img/brands (10).webp" alt="none" />
+          <img src="./assets/img/brands (15).webp" alt="none" />
         </div>
         <div className="brand">
           <img src="./assets/img/brands (11).webp" alt="none" />

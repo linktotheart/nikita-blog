@@ -3,6 +3,8 @@ import Social from "../components/social"
 import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
+import { Grid } from "@horacioh/gatsby-theme-instagram"
+
 
 const ContactPage = ({
   data: {
@@ -16,7 +18,7 @@ const ContactPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{background: `rgba(0,0,0,0.015)`, marginBottom: 0}}>
+        <div className="post-thumbnail contact-bg" style={{ marginBottom: 0}}>
           <h1 className="post-title">Don't be shy to say Hi!</h1>
           <p>Write to me at &rarr;</p>
           <h3>
@@ -26,15 +28,17 @@ const ContactPage = ({
           <a href="mailto: nikita.shelar@scmc.edu.in"> nikita.shelar@scmc.edu.in</a>
           </h3>
         </div>
-        <div>
+        <div className="get-in-touch">
           <h1 style={{marginBottom: "2rem"}}>
-            Follow me on
+            Get in touch with me on
           </h1>
-
           <Social />
-
-
         </div>
+      </div>
+      <div className="instagram">
+        <h2> Follow @ instagram </h2>
+      <Grid />
+
       </div>
     </Layout>
   )

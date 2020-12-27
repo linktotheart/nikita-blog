@@ -7,7 +7,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `markdown-pages`,
-        path: `${__dirname}/_data`,
+        path: `${__dirname}/_data/blog`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `markdown-pages`,
+        path: `${__dirname}/_data/posts`,
       },
     },
     {
@@ -43,7 +50,7 @@ module.exports = {
         short_name: `Nikita`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#381696`,
+        theme_color: `#07f`,
         display: `standalone`,
         icon: "src/images/icon.png",
       },
@@ -54,6 +61,13 @@ module.exports = {
     'gatsby-plugin-dark-mode',
     // siteURL is a must for sitemap generation
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,    
+    {
+      resolve: "@horacioh/gatsby-theme-instagram",
+      options: {
+        type: `account`, // optional. `account` is the default `type` value
+        username: `meowed`,
+      },
+    },
   ],
 }

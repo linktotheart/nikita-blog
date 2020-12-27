@@ -15,30 +15,12 @@ const AboutPage = ({
         <meta name="description" content={"About page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -about">
-        <div className="post-thumbnail nikita-img" >
-          <img className="img-fluid rounded-circle" src="./assets/img/nikita.webp" alt="Nikita Me?"/>
+        <div className="post-thum bnail nikita-img" >
+          <img className="img-fluid round ed-circle" src="./assets/img/nikita-2.jfif" alt="Nikita Me?"/>
         </div>
         <div className="about-text">
           <h3>About Me</h3>
-          {/* <p>
-          I am an upcoming media professional, currently studying at Symbiosis Center for Media & Communication Pune. With a perpetual hunger for knowledge in cinema. I am a social media enthusiast with a head for marketing.
-
-          20 -year-old Doodler, content writer, food blogger and reading enthusiast. I love teaching and I usually involve myself in various NGO's for Child support. I currently volunteer at Nachiket Balgram an orphanage in Pune. 
-
-          ​<br />
-
-          Having watched Mad Men, I wanted to be the Don Draper of the world, but the quick realization DON-ed upon me that the AD world is more than just whiskeys and charms. Its an entourage of people who survive on creativity. 
-
-          And so I hope to find a place in this Mad world. 
-
-          ​<br />
-
-
-          Reach out to me on my Instagram   &nbsp;
-          <strong>
-            <a href="https://instagram.com/@imnikita.s">@imnikita.s</a>
-          </strong> 
-          </p> */}
+         
             <p>
               When I was 14 years old, I would secretly watch Mad Men after bedtime with all the enthusiasm of, well, a teen. Nobody was more excited than I was when it premiered on TV daily, sparking a craze for all things early 60’s. Needless to say, I was mesmerized and fascinated. Having watched Mad Men, I wanted to be the Don Draper of the world, but the quick realization DON-ed upon me that I am not nearly as charming and the advertising world is more than just whiskeys and charms. It is an entourage of people who survive on creativity. And so, I hope to find a place in this mad-Ad world. “Advertising is based on one thing: Happiness” an interesting quote from Don Draper, reminds me that all marketers do is to convince the world that their product makes them happier. Just like Don, one can be skeptical about consumer culture but you cannot get around this. If you are a marketer, you need to know that happiness sells. No one wants a branded Gucci bag because they can store things in it. They want Gucci because of what it will make them: someone who is classy, fancy, luxurious. The message surrounding the Gucci bag should reflect that.
             </p>
