@@ -13,7 +13,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `markdown-pages`,
+        name: `markdown-blog`,
         path: `${__dirname}/_data/posts`,
       },
     },
@@ -66,7 +66,7 @@ module.exports = {
       resolve: "@horacioh/gatsby-theme-instagram",
       options: {
         type: `account`, // optional. `account` is the default `type` value
-        username: `meowed`,
+        username: `kimberly`,
       },
     },
   ],
