@@ -3,7 +3,6 @@ import Social from "../components/social"
 import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
-import { Grid } from "@horacioh/gatsby-theme-instagram"
 
 
 const ContactPage = ({
@@ -35,11 +34,7 @@ const ContactPage = ({
           <Social />
         </div>
       </div>
-      <div className="instagram">
-        <h2> Follow @ instagram </h2>
-      <Grid />
 
-      </div>
     </Layout>
   )
 }
